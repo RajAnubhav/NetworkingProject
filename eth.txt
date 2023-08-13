@@ -1,0 +1,311 @@
+[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv6 (0x86dd)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[33mLayer ETH
+:[0m[1m[32m	Destination:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	Address:[0m[1m c8:94:02:83:67:bd
+[0m[1m[32m	.... ..0. .... .... .... .... = LG bit:[0m[1m Globally unique address (factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Source:[0m[1m f2:91:c9:6a:f2:7e
+[0m[1m[32m	.... ..1. .... .... .... .... = LG bit:[0m[1m Locally administered address (this is NOT the factory default)
+[0m[1m[32m	.... ...0 .... .... .... .... = IG bit:[0m[1m Individual address (unicast)
+[0m[1m[32m	Type:[0m[1m IPv4 (0x0800)
+[0m[1m[32m	Address:[0m[1m f2:91:c9:6a:f2:7e
+[0m
